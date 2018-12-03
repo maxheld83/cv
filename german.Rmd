@@ -5,17 +5,17 @@ output:
     template: svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV"
-author: William Sealy Gosset
+title: "Lebenslauf"
+author: Maximilian Held
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+jobtitle: "Social Data Scientist"
+address: "Herrnstraße 41 · 90763 Fürth"
 fontawesome: yes
-email: guinness@consumer-care.net
-# github: svmiller
-# twitter: stevenvmiller
-phone: "+353 1 408 4800"
-web: guinness.com
+email: info@maxheld.de
+github: maxheld83
+twitter: maxheld
+phone: "+49 151 22958775"
+web: maxheld.de
 updated: no
 
 keywords: R Markdown, academic CV, template
@@ -27,63 +27,63 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# Employment
-
-*Arthur Guinness & Son*
-
-Chief Brewer (Park Royal) \hfill 1935-1937
-
-Researcher (Dublin) \hfill 1899-1935
-
-# Education
-
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+Geboren am 5. November 1983 in Bremen.
 
 
-# Publications
+# Ausbildung
 
-## Books
+[*Gymnasium Syke*](http://gymnasium-syke.de)* (bilingualer Zweig): Abiturnote 1.5 \hfill 1996 -- 2003
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+[*Studienstiftung des Deutschen Volkes*](https://www.studienstiftung.de/), Bonn: Stipendium \hfill 2004 -- 2010
 
-## Journal Articles
+[*Jacobs University Bremen*](https://www.jacobs-university.de): BA Sozialwissenschaft mit Auszeichnung \hfill 2004 -- 2007
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+[*Fulbright Commission*](https://eca.state.gov/fulbright), Washington, DC (USA): Stipendium \hfill 2007 -- 2008
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+[*University of California, Irvine*](https://www.uci.edu) (USA): Graduiertenstudium Sozialwissenschaft \hfill 2007 -- 2008
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+[*Studienkolleg zu Berlin*](http://studienkolleg-zu-berlin.de), Berlin: Kollegiat \hfill 2008 -- 2009
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+[*Hertie School of Governance*](https://www.hertie-school.org), Berlin: Graduiertenstudium Public Policy \hfill 2008 -- 2010
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
+[*Universität Bremen*](https://www.bigsss-bremen.de): [Dissertation](https://www.maxheld.de/schumpermas) in Sozialwissenschaft. Abschluss erwartet 2019. \hfill seit 2010
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
 
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
+# Arbeitserfahrung
 
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
+[*Dacapo Unternehmensberatung GmbH*](http://dacapo2.com/), Berlin: Praktikum (Due Diligence, Modellierung) \hfill 2006
 
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
+[*Jacobs University Bremen*](https://www.jacobs-university.de): Lehrauftrag ("[German Politics and Culture](http://www.maxheld.de/gpc/)") \hfill 2010 -- 2015
 
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
+<!-- [*Universität Hamburg*](https://www.uni-hamburg.de): Lehrauftrag ("[Progressive Taxation and Deliberative Democracy](https://www.maxheld.de/give-n-take/)") \hfill 2014 -->
 
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
+[*Jacobs University Bremen*](https://www.jacobs-university.de): Wissenschaftlicher Mitarbeiter \hfill 2015 -- 2016
+\newline (Computational Social Science)
 
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
+[*Universität Hohenheim*](https://www.uni-hohenheim.de): Wissenschaftlicher Mitarbeiter (Data Science) \hfill 2016 -- 2018
 
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
+[*Friedrich-Alexander Universität Erlangen-Nürnberg*](https://www.fau.de): Wissenschaftlicher Mitarbeiter \hfill seit 2018
+\newline
+(Data Science)
 
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
 
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
+# Ehrenamt
 
-## Other Publications
+[*Deutsche SchülerAkadamie / Bildung & Begabung gGmbH*, Bonn](https://www.deutsche-schuelerakademie.de):\newline
+Kurs- und Akademieleitung \hfill seit 2003
 
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
+[*International Society for the Scientific Study of Human Subjectivity*, Columbia, MS (USA) ](https://qmethod.org):\newline
+Vorstandsmitglied und Webmaster \hfill seit 2015
 
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
 
-# References
+# Fähigkeiten
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
+[R](http://r-project.org) (Experte, Paketentwicklung), Datenvisualisierung (Fortgeschritten), HTML5/CSS/JS (Grundkenntnisse), [Shiny](http://shiny.rstudio.com) (Fortgeschritten), Unsupervised Learning (Grundkenntnisse).
+
+Außerdem [Git](https://git-scm.com), [GitHub](https://github.com), CI/CD, [Tidyverse](https://www.tidyverse.org), [LaTeX](http://latex-project.org), Wordpress, Bash, Linux, macOS.
+
+Englisch verhandlungssicher in Wort und Schrift.
+
+\vspace*{5mm}
+
+Nürnberg, den 3. Dezember 2018
