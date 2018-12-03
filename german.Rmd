@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm-latex-cv.tex
+    template: svm-latex-cv.tex
 geometry: margin=1in
 
 title: "CV"

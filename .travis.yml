@@ -1,0 +1,16 @@
+language: r
+warnings_are_errors: false
+cache:
+  packages: true
+script:
+  - Rscript -e "rmarkdown::render_site()"
+deploy:
+  - provider: pages
+    skip_cleanup: true
+    github_token: "$GITHUB_TOKEN"
+    local_dir: german/
+    commiter-grom-gh: true
+    on:
+      branch: master
+notifications:
+  email: false
