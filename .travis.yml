@@ -3,7 +3,7 @@ warnings_are_errors: false
 cache:
   packages: true
 script:
-  - Rscript -e "rmarkdown::render_site()"
+  - Rscript -e "rmarkdown::render(input = 'german.Rmd', output_dir = 'german', output_file = 'held_lebenslauf.pdf')"
 deploy:
   - provider: pages
     skip_cleanup: true
