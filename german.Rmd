@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
-geometry: margin=1in
+geometry: margin=2cm
 papersize: a4
 title: "Lebenslauf"
 author: Maximilian Held
