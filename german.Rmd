@@ -27,26 +27,26 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-Geboren am 5. November 1983 in Bremen.
+Geboren 1983 in Bremen.
 
 
 # Ausbildung
 
-[*Gymnasium Syke*](http://gymnasium-syke.de)* (bilingualer Zweig): Abiturnote 1.5 \hfill 1996 -- 2003
+[*Gymnasium Syke*](http://gymnasium-syke.de): bilingualer Zweig \hfill 1996 -- 2003
 
-[*Studienstiftung des Deutschen Volkes*](https://www.studienstiftung.de/), Bonn: Stipendium \hfill 2004 -- 2010
+[*Studienstiftung des Deutschen Volkes*](https://www.studienstiftung.de/): Stipendium \hfill 2004 -- 2010
 
 [*Jacobs University Bremen*](https://www.jacobs-university.de): BA Sozialwissenschaft mit Auszeichnung \hfill 2004 -- 2007
 
-[*Fulbright Commission*](https://eca.state.gov/fulbright), Washington, DC (USA): Stipendium \hfill 2007 -- 2008
+[*Fulbright Commission*](https://eca.state.gov/fulbright): Stipendium \hfill 2007 -- 2008
 
-[*University of California, Irvine*](https://www.uci.edu) (USA): Graduiertenstudium Sozialwissenschaft \hfill 2007 -- 2008
+[*University of California, Irvine*](https://www.uci.edu) (USA): Studium Sozialwissenschaften \hfill 2007 -- 2008
 
-[*Studienkolleg zu Berlin*](http://studienkolleg-zu-berlin.de), Berlin: Kollegiat \hfill 2008 -- 2009
+[*Studienkolleg zu Berlin*](http://studienkolleg-zu-berlin.de): Kollegiat \hfill 2008 -- 2009
 
-[*Hertie School of Governance*](https://www.hertie-school.org), Berlin: Graduiertenstudium Public Policy \hfill 2008 -- 2010
+[*Hertie School of Governance*](https://www.hertie-school.org):  Studium Public Policy \hfill 2008 -- 2010
 
-[*Universität Bremen*](https://www.bigsss-bremen.de): [Dissertation](https://www.maxheld.de/schumpermas) in Sozialwissenschaft. Abschluss erwartet 2019. \hfill seit 2010
+[*Universität Bremen*](https://www.bigsss-bremen.de): [Dissertation](https://www.maxheld.de/schumpermas) über Steuern und Demokratie. Abschluss erwartet 2019. \hfill seit 2010
 
 
 # Arbeitserfahrung
@@ -72,15 +72,15 @@ Geboren am 5. November 1983 in Bremen.
 [*Deutsche SchülerAkadamie / Bildung & Begabung gGmbH*, Bonn](https://www.deutsche-schuelerakademie.de):\newline
 Kurs- und Akademieleitung \hfill seit 2003
 
-[*International Society for the Scientific Study of Human Subjectivity*, Columbia, MS (USA) ](https://qmethod.org):\newline
+[*International Society for the Scientific Study of Human Subjectivity*, Columbia (USA) ](https://qmethod.org):\newline
 Vorstandsmitglied und Webmaster \hfill seit 2015
 
 
 # Fähigkeiten
 
-[R](http://r-project.org) (Experte, Paketentwicklung), Datenvisualisierung (Fortgeschritten), HTML5/CSS/JS (Grundkenntnisse), [Shiny](http://shiny.rstudio.com) (Fortgeschritten), Unsupervised Learning (Grundkenntnisse).
+[R](http://r-project.org) (Experte, Package-Entwicklung), Datenvisualisierung und [Shiny](http://shiny.rstudio.com) (fortgeschritten), HTML5/CSS/JS und Unsupervised Learning (Grundkenntnisse)
 
-Außerdem [Git](https://git-scm.com), [GitHub](https://github.com), CI/CD, [Tidyverse](https://www.tidyverse.org), [LaTeX](http://latex-project.org), Wordpress, Bash, Linux, macOS.
+Außerdem: [Git](https://git-scm.com), [GitHub](https://github.com), CI/CD, [Tidyverse](https://www.tidyverse.org), [LaTeX](http://latex-project.org), Wordpress, Bash, Linux, macOS
 
 Englisch verhandlungssicher in Wort und Schrift.
 
