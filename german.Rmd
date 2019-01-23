@@ -79,7 +79,7 @@ Vorstandsmitglied und Webmaster \hfill seit 2015
 
 # Fähigkeiten
 
-[R](http://r-project.org) (Experte, Package-Entwicklung), Datenvisualisierung und [Shiny](http://shiny.rstudio.com) (fortgeschritten), HTML5/CSS/JS und Unsupervised Learning (Grundkenntnisse).
+[R](http://r-project.org) (Experte, Package-Entwicklung), Datenvisualisierung und [Shiny](http://shiny.rstudio.com) (fortgeschritten), HTML5/CSS/JS und Unsupervised Learning, Bayesian Inference.
 
 Außerdem: [Git](https://git-scm.com), [GitHub](https://github.com), CI/CD, [Tidyverse](https://www.tidyverse.org), [LaTeX](http://latex-project.org), Wordpress, Bash, Linux, macOS.
 
