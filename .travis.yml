@@ -4,6 +4,7 @@ cache:
   packages: true
 script:
   - Rscript -e "rmarkdown::render(input = 'german.Rmd', output_dir = 'output', output_file = 'held_lebenslauf.pdf')"
+  - Rscript -e "rmarkdown::render(input = 'english.Rmd', output_dir = 'output', output_file = 'held_resume.pdf')"
 deploy:
   - provider: pages
     skip_cleanup: true
