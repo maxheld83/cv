@@ -1,9 +1,6 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
-$if(fontfamily)$
-\usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
-$else$
-\usepackage{lmodern}
-$endif$
+\usepackage[sfdefault,book,medium]{FiraSans}
+\usepackage{FiraMono}
 $if(linestretch)$
 \usepackage{setspace}
 \setstretch{$linestretch$}

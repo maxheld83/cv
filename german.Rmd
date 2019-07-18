@@ -21,8 +21,6 @@ updated: false
 
 keywords: R Markdown, academic CV, template
 
-fontfamily: mathpazo
-fontfamilyoptions: sc, osf
 fontsize: 11pt
 linkcolor: yes
 ---
