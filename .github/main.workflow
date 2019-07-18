@@ -7,7 +7,7 @@ workflow "Render and Deploy RMarkdown Documents" {
 }
 
 action "Render" {
-  uses = "r-lib/ghactions/actions/rmarkdown@2649698"
+  uses = "maxheld83/rmarkdown@2649698"
   runs = [
     "Rscript",
     "-e",
