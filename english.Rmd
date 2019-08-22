@@ -4,7 +4,7 @@ output:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
 geometry: margin=2cm
-papersize: a4
+papersize: letter
 title: "Resume"
 author: Maximilian Held
 
@@ -66,7 +66,7 @@ Born 1983 in Bremen, Germany.
 
 [*German National Academic Foundation*](https://www.studienstiftung.de/): Fellowship. \hfill 2004 -- 2010
 
-[*Gymnasium Syke*](http://gymnasium-syke.de): Bilingual High School (Graduated best in class). \hfill 1996 -- 2003
+[*Gymnasium Syke*](http://gymnasium-syke.de): Bilingual High School. \hfill 1996 -- 2003
 
 
 # Volunteering and Service
@@ -84,6 +84,6 @@ Teacher and Manager. \hfill since 2003
 
 Also: [Git](https://git-scm.com), [GitHub](https://github.com), [Docker](https://www.docker.com), CI/CD, [Tidyverse](https://www.tidyverse.org), [LaTeX](http://latex-project.org), Bash, Linux, macOS.
 
-Fluent in english and german.
+Fluent in English and German.
 
 Last updated \today.
